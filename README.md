@@ -69,7 +69,7 @@ QA/Testers	Test cases, bug reports
 DevOps	Deployment, CI/CD
 Product Owner	Defines requirements, priorities
 Scrum Master	Facilitates Agile, removes blockers
-4. UI Components ✅
+4. UI Components Pattern ✅
 Navbar: logo, search, user nav, mobile menu
 Property Card: image, details, favorite, responsive
 Footer: links, info, socials, copyright
