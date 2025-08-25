@@ -59,7 +59,7 @@ Headings: Circular, 24–32px, Bold (700)
 Secondary: Circular, 14px, Book (400)
 Why Document Styles? For consistency, accessibility, and faster implementation.
 
-3. Project Roles & Responsibilities ✅
+3. Project Roles and Responsibilities ✅
 Role	Contribution
 Project Manager	Oversees timeline, coordinates team
 Frontend Devs	UI components, responsive design
